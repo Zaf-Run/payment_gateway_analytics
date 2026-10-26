@@ -1,8 +1,6 @@
-# Payment Gateway Analytics (Stage 1: profiling, model, SQL, validation)
+# Payment Gateway Analytics 
 
 Merchant performance, payment success and failure, refunds, settlement time and payment method comparison, on a UAE payment gateway extract.
-
-Status: stage 1 complete, plus the method adjusted merchant comparison. Excel workbook, Power BI build, findings table, report, case study, CV bullets and interview preparation are not built yet.
 
 ## 1. Dataset
 
