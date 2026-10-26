@@ -1,0 +1,6 @@
+payment_method,attempts,completed,failed,refunded,success_rate_pct,payment_completion_rate_pct,refund_rate_pct,completed_value_aed,avg_amount_aed,effective_take_rate_pct,mdr_fee_revenue_aed,median_settlement_h,p90_settlement_h,p95_settlement_h
+Bank Transfer,936,936.0,0.0,7.0,99.252,100.0,0.748,110136542.0,117667.0,0.353,386018.0,12.52,21.84,22.83
+Net Banking,1679,1622.0,57.0,37.0,94.401,96.605,2.281,39455219.0,24366.0,1.151,442228.0,15.07,22.31,23.11
+POS Card,3325,3325.0,0.0,61.0,98.165,100.0,1.835,32217853.0,9690.0,2.05,648267.0,30.09,44.47,46.3
+Digital Wallet,2431,2398.0,33.0,66.0,95.928,98.643,2.752,9360135.0,3899.0,1.409,128562.0,2.11,3.62,3.8
+UPI,3629,3629.0,0.0,86.0,97.63,100.0,2.37,7257520.0,2000.0,0.45,31883.0,1.08,1.82,1.91

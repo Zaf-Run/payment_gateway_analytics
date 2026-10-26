@@ -1,0 +1,13 @@
+payment_method,merchant_category,attempts,failed,failure_rate_pct
+Net Banking,E-commerce,387,16.0,4.13
+Net Banking,Retail & Grocery,375,11.0,2.93
+Net Banking,Utilities & Bills,230,10.0,4.35
+Net Banking,F&B,295,9.0,3.05
+Digital Wallet,Healthcare,201,7.0,3.48
+Digital Wallet,Utilities & Bills,316,6.0,1.9
+Digital Wallet,E-commerce,594,6.0,1.01
+Net Banking,Travel & Hospitality,220,6.0,2.73
+Digital Wallet,F&B,430,6.0,1.4
+Digital Wallet,Retail & Grocery,501,5.0,1.0
+Net Banking,Healthcare,172,5.0,2.91
+Digital Wallet,Travel & Hospitality,389,3.0,0.77

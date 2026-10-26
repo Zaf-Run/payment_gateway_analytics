@@ -1,0 +1,25 @@
+merchant_name,merchant_category,attempts,failed_observed,failed_expected,failure_ratio,completed,refunded_observed,refunded_expected,refund_ratio,failure_p_upper,refund_p_upper,failure_flag,refund_flag,failure_watch,refund_watch
+Life Pharmacy POS,Healthcare,283.0,5.0,2.04,2.45,278.0,6.0,5.92,1.01,0.0563,0.5414,False,False,False,False
+Instashop Pay,E-commerce,698.0,10.0,4.78,2.09,688.0,10.0,14.77,0.68,0.0245,0.9223,False,False,True,False
+du Bill Pay,Utilities & Bills,408.0,6.0,2.88,2.08,402.0,8.0,8.65,0.93,0.0723,0.6336,False,False,False,False
+Local Cafe Chain POS,F&B,564.0,7.0,3.9,1.79,557.0,6.0,11.82,0.51,0.1005,0.9772,False,False,False,False
+DEWA Bill Pay,Utilities & Bills,388.0,5.0,3.06,1.63,383.0,10.0,8.34,1.2,0.1949,0.3264,False,False,False,False
+Aster Clinics Pay,Healthcare,257.0,3.0,2.1,1.43,254.0,7.0,5.51,1.27,0.3504,0.3155,False,False,False,False
+Empower Cooling Pay,Utilities & Bills,394.0,4.0,3.04,1.32,390.0,8.0,8.45,0.95,0.3617,0.6079,False,False,False,False
+NMC Health Gateway,Healthcare,283.0,3.0,2.47,1.21,280.0,14.0,5.94,2.36,0.4485,0.0033,False,False,False,True
+Union Coop POS,Retail & Grocery,616.0,6.0,5.0,1.2,610.0,18.0,13.22,1.36,0.384,0.122,False,False,False,False
+Namshi Checkout,E-commerce,715.0,6.0,5.14,1.17,709.0,20.0,15.27,1.31,0.4086,0.1404,False,False,False,False
+Restaurant Aggregator Pay,F&B,525.0,4.0,3.97,1.01,521.0,18.0,11.24,1.6,0.5606,0.0383,False,False,False,True
+RTA Transit Pay,Travel & Hospitality,422.0,3.0,3.33,0.9,419.0,8.0,9.15,0.87,0.6466,0.6934,False,False,False,False
+Carrefour POS Network,Retail & Grocery,638.0,4.0,4.58,0.87,634.0,10.0,13.51,0.74,0.671,0.8653,False,False,False,False
+Lulu POS Network,Retail & Grocery,653.0,3.0,4.54,0.66,650.0,6.0,13.99,0.43,0.8309,0.9944,False,False,False,False
+Emirates Booking Gateway,Travel & Hospitality,401.0,2.0,3.03,0.66,399.0,10.0,8.76,1.14,0.8053,0.381,False,False,False,False
+Amazon.ae Gateway,E-commerce,729.0,4.0,6.14,0.65,725.0,17.0,15.74,1.08,0.8609,0.4083,False,False,False,False
+Careem Wallet Settlement,Travel & Hospitality,432.0,2.0,3.1,0.64,430.0,12.0,9.46,1.27,0.8153,0.2438,False,False,False,False
+Jumeirah Hotels Pay,Travel & Hospitality,442.0,2.0,3.29,0.61,440.0,8.0,9.53,0.84,0.8402,0.7344,False,False,False,False
+Spinneys POS,Retail & Grocery,685.0,3.0,5.42,0.55,682.0,14.0,14.55,0.96,0.9066,0.5925,False,False,False,False
+Talabat Merchant Pay,F&B,561.0,2.0,3.81,0.53,559.0,9.0,12.08,0.75,0.8935,0.8501,False,False,False,False
+Mediclinic POS,Healthcare,269.0,1.0,1.96,0.51,268.0,10.0,5.89,1.7,0.8591,0.0766,False,False,False,False
+Deliveroo Merchant Pay,F&B,516.0,2.0,4.17,0.48,514.0,10.0,11.08,0.9,0.9201,0.6681,False,False,False,False
+NoonPay Checkout,E-commerce,711.0,2.0,5.15,0.39,709.0,11.0,15.35,0.72,0.9643,0.8976,False,False,False,False
+Etisalat Bill Pay,Utilities & Bills,410.0,1.0,3.12,0.32,409.0,7.0,8.78,0.8,0.9558,0.7724,False,False,False,False

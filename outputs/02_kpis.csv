@@ -1,0 +1,2 @@
+payment_attempts,completed_payments,success_not_refunded,failed_payments,refunded_payments,success_rate_pct,payment_completion_rate_pct,failure_rate_pct,refund_rate_count_pct,attempted_value_aed,completed_value_aed,success_value_aed,refunded_transaction_value_aed,failed_value_aed,refund_rate_value_pct,mdr_fee_revenue_aed,effective_take_rate_pct,median_settlement_h,p90_settlement_h,p95_settlement_h
+12000,11910.0,11653.0,90.0,257.0,97.108,99.25,0.75,2.158,199999999.59,198427268.29,195595754.04,2831514.25,1572731.3,1.427,1636958.04,0.8369,3.69,35.08,41.46

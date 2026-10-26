@@ -1,0 +1,7 @@
+region,attempts,failed,refunded,success_rate_pct,failure_rate_pct,refund_rate_pct,completed_value_aed,mdr_fee_revenue_aed
+Dubai,4126,30.0,85.0,97.213,0.727,2.075,67540305.0,557699.0
+Abu Dhabi,2972,23.0,67.0,96.972,0.774,2.272,49939205.0,410530.0
+Sharjah,1834,13.0,38.0,97.219,0.709,2.087,32044971.0,254803.0
+Northern Emirates,1279,12.0,36.0,96.247,0.938,2.841,20066749.0,176680.0
+Al Ain,960,6.0,16.0,97.708,0.625,1.677,15633948.0,125786.0
+Western Region,829,6.0,15.0,97.467,0.724,1.823,13202091.0,111460.0

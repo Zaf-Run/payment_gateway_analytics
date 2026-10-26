@@ -1,0 +1,25 @@
+merchant_key,merchant_name,merchant_category
+1,Amazon.ae Gateway,E-commerce
+2,Instashop Pay,E-commerce
+3,Namshi Checkout,E-commerce
+4,NoonPay Checkout,E-commerce
+5,Deliveroo Merchant Pay,F&B
+6,Local Cafe Chain POS,F&B
+7,Restaurant Aggregator Pay,F&B
+8,Talabat Merchant Pay,F&B
+9,Aster Clinics Pay,Healthcare
+10,Life Pharmacy POS,Healthcare
+11,Mediclinic POS,Healthcare
+12,NMC Health Gateway,Healthcare
+13,Carrefour POS Network,Retail & Grocery
+14,Lulu POS Network,Retail & Grocery
+15,Spinneys POS,Retail & Grocery
+16,Union Coop POS,Retail & Grocery
+17,Careem Wallet Settlement,Travel & Hospitality
+18,Emirates Booking Gateway,Travel & Hospitality
+19,Jumeirah Hotels Pay,Travel & Hospitality
+20,RTA Transit Pay,Travel & Hospitality
+21,DEWA Bill Pay,Utilities & Bills
+22,Empower Cooling Pay,Utilities & Bills
+23,Etisalat Bill Pay,Utilities & Bills
+24,du Bill Pay,Utilities & Bills

@@ -1,0 +1,7 @@
+merchant_category,merchants,attempts,completed,failed,refunded,success_rate_pct,failure_rate_pct,refund_rate_pct,completed_value_aed,avg_amount_aed,median_amount_aed,mdr_fee_revenue_aed,effective_take_rate_pct
+Retail & Grocery,4,2592,2576.0,16.0,48.0,97.531,0.617,1.863,47599968.0,18468.0,4638.0,361625.0,0.772
+E-commerce,4,2853,2831.0,22.0,58.0,97.196,0.771,2.049,45949092.0,16246.0,4887.0,393637.0,0.866
+F&B,4,2166,2151.0,15.0,43.0,97.322,0.693,1.999,35451754.0,16498.0,4712.0,292733.0,0.833
+Utilities & Bills,4,1600,1584.0,16.0,33.0,96.938,1.0,2.083,26417628.0,16742.0,4333.0,217716.0,0.834
+Travel & Hospitality,4,1697,1688.0,9.0,38.0,97.23,0.53,2.251,25501102.0,15102.0,4328.0,220423.0,0.877
+Healthcare,4,1092,1080.0,12.0,37.0,95.513,1.099,3.426,17507725.0,16146.0,4902.0,150824.0,0.891

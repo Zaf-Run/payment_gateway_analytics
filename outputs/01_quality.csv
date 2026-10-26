@@ -1,0 +1,16 @@
+check_name,result,expected
+row count,12000,12000
+fact rows equal staging rows,12000,12000
+duplicate transaction_id,0,0
+fully duplicated rows excluding id,0,0
+null values (any column),0,0
+amount <= 0,0,0
+settlement time < 0,0,0
+merchants mapped to more than one category,0,0
+dates outside 2024-01-01..2025-12-31,0,0
+unknown status values,0,0
+fee > 0 on Failed or Refunded rows,0,info
+Success rows where fee differs from amount x mdr by more than 5 percent,116,"info (small amounts, minimum fee effect suspected)"
+"aggregate gap, sum(fee) vs sum(amount x mdr) on Success rows, percent",-0.0012,near 0
+"amount above 99th percentile (kept, flagged)",120,info
+settlement time at 48 hour maximum,1,info

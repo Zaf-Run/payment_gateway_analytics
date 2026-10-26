@@ -1,0 +1,211 @@
+exception_type,transaction_id,date_key,merchant_name,payment_method,status,metric
+large amount (above 99th percentile),35,2024-01-02,DEWA Bill Pay,Bank Transfer,Success,217057.01
+large amount (above 99th percentile),48,2024-01-03,Spinneys POS,Bank Transfer,Success,216552.2
+large amount (above 99th percentile),118,2024-01-06,NMC Health Gateway,Bank Transfer,Success,212574.15
+large amount (above 99th percentile),222,2024-01-13,Talabat Merchant Pay,Bank Transfer,Success,203699.15
+large amount (above 99th percentile),423,2024-01-25,du Bill Pay,Bank Transfer,Success,217110.22
+large amount (above 99th percentile),579,2024-02-02,Local Cafe Chain POS,Bank Transfer,Success,225207.12
+large amount (above 99th percentile),587,2024-02-03,Mediclinic POS,Bank Transfer,Success,219415.62
+large amount (above 99th percentile),621,2024-02-05,Careem Wallet Settlement,Bank Transfer,Success,210315.06
+large amount (above 99th percentile),651,2024-02-07,NMC Health Gateway,Bank Transfer,Success,232604.41
+large amount (above 99th percentile),690,2024-02-09,NoonPay Checkout,Bank Transfer,Success,228516.96
+large amount (above 99th percentile),796,2024-02-17,DEWA Bill Pay,Bank Transfer,Success,220881.07
+large amount (above 99th percentile),1039,2024-03-03,Careem Wallet Settlement,Bank Transfer,Success,210146.79
+large amount (above 99th percentile),1049,2024-03-04,Namshi Checkout,Bank Transfer,Success,214461.54
+large amount (above 99th percentile),1214,2024-03-16,Amazon.ae Gateway,Bank Transfer,Success,230308.28
+large amount (above 99th percentile),1221,2024-03-16,Amazon.ae Gateway,Bank Transfer,Success,214967.29
+large amount (above 99th percentile),1224,2024-03-16,Life Pharmacy POS,Bank Transfer,Success,219304.32
+large amount (above 99th percentile),1451,2024-03-30,DEWA Bill Pay,Bank Transfer,Success,226251.12
+large amount (above 99th percentile),1503,2024-04-02,Carrefour POS Network,Bank Transfer,Success,230903.35
+large amount (above 99th percentile),1599,2024-04-08,NoonPay Checkout,Bank Transfer,Success,220603.87
+large amount (above 99th percentile),1646,2024-04-11,Etisalat Bill Pay,Bank Transfer,Success,223376.71
+large amount (above 99th percentile),1835,2024-04-22,Life Pharmacy POS,Bank Transfer,Success,219600.37
+large amount (above 99th percentile),1937,2024-04-29,Amazon.ae Gateway,Bank Transfer,Success,210644.53
+large amount (above 99th percentile),2002,2024-05-03,Talabat Merchant Pay,Bank Transfer,Success,223871.32
+large amount (above 99th percentile),2160,2024-05-12,Empower Cooling Pay,Bank Transfer,Success,219976.15
+large amount (above 99th percentile),2274,2024-05-19,NMC Health Gateway,Bank Transfer,Success,234987.82
+large amount (above 99th percentile),2693,2024-06-14,NMC Health Gateway,Bank Transfer,Success,233105.61
+large amount (above 99th percentile),2891,2024-06-27,Careem Wallet Settlement,Bank Transfer,Success,222313.88
+large amount (above 99th percentile),3117,2024-07-10,Jumeirah Hotels Pay,Bank Transfer,Success,217133.14
+large amount (above 99th percentile),3172,2024-07-13,Local Cafe Chain POS,Bank Transfer,Success,210014.62
+large amount (above 99th percentile),3244,2024-07-18,Spinneys POS,Bank Transfer,Success,224844.05
+large amount (above 99th percentile),3470,2024-07-31,Spinneys POS,Bank Transfer,Success,203437.96
+large amount (above 99th percentile),3492,2024-08-01,Deliveroo Merchant Pay,Bank Transfer,Success,223122.74
+large amount (above 99th percentile),3537,2024-08-04,Union Coop POS,Bank Transfer,Success,215347.15
+large amount (above 99th percentile),3557,2024-08-06,Local Cafe Chain POS,Bank Transfer,Success,226288.01
+large amount (above 99th percentile),3609,2024-08-09,Spinneys POS,Bank Transfer,Success,230976.65
+large amount (above 99th percentile),3794,2024-08-21,Spinneys POS,Bank Transfer,Success,223182.07
+large amount (above 99th percentile),3848,2024-08-24,du Bill Pay,Bank Transfer,Success,203693.97
+large amount (above 99th percentile),4056,2024-09-06,NoonPay Checkout,Bank Transfer,Success,226657.98
+large amount (above 99th percentile),4157,2024-09-11,DEWA Bill Pay,Bank Transfer,Success,217846.4
+large amount (above 99th percentile),4166,2024-09-12,Namshi Checkout,Bank Transfer,Success,205355.48
+large amount (above 99th percentile),4292,2024-09-19,Union Coop POS,Bank Transfer,Success,231944.52
+large amount (above 99th percentile),4409,2024-09-26,Lulu POS Network,Bank Transfer,Success,223075.96
+large amount (above 99th percentile),4470,2024-09-29,Mediclinic POS,Bank Transfer,Success,220709.98
+large amount (above 99th percentile),4590,2024-10-06,NoonPay Checkout,Bank Transfer,Success,215926.36
+large amount (above 99th percentile),4630,2024-10-09,Carrefour POS Network,Bank Transfer,Success,211933.4
+large amount (above 99th percentile),4690,2024-10-13,Instashop Pay,Bank Transfer,Success,231181.81
+large amount (above 99th percentile),4898,2024-10-27,NoonPay Checkout,Bank Transfer,Success,211045.9
+large amount (above 99th percentile),4956,2024-10-30,du Bill Pay,Bank Transfer,Success,203778.58
+large amount (above 99th percentile),5006,2024-11-01,RTA Transit Pay,Bank Transfer,Success,205895.93
+large amount (above 99th percentile),5073,2024-11-04,Talabat Merchant Pay,Bank Transfer,Success,222358.3
+large amount (above 99th percentile),5097,2024-11-05,du Bill Pay,Bank Transfer,Success,230454.89
+large amount (above 99th percentile),5153,2024-11-08,Lulu POS Network,Bank Transfer,Success,209384.55
+large amount (above 99th percentile),5218,2024-11-12,Carrefour POS Network,Bank Transfer,Success,206893.46
+large amount (above 99th percentile),5224,2024-11-12,Jumeirah Hotels Pay,Bank Transfer,Success,233166.2
+large amount (above 99th percentile),5262,2024-11-14,Carrefour POS Network,Bank Transfer,Success,231691.02
+large amount (above 99th percentile),5316,2024-11-17,Local Cafe Chain POS,Bank Transfer,Success,204782.08
+large amount (above 99th percentile),5332,2024-11-18,Local Cafe Chain POS,Bank Transfer,Success,204610.2
+large amount (above 99th percentile),5510,2024-11-29,Talabat Merchant Pay,Bank Transfer,Success,204405.67
+large amount (above 99th percentile),5523,2024-11-30,Emirates Booking Gateway,Bank Transfer,Success,220072.37
+large amount (above 99th percentile),5680,2024-12-09,Empower Cooling Pay,Bank Transfer,Success,230050.7
+large amount (above 99th percentile),5793,2024-12-17,Talabat Merchant Pay,Bank Transfer,Success,208987.11
+large amount (above 99th percentile),5832,2024-12-19,NoonPay Checkout,Bank Transfer,Success,217568.25
+large amount (above 99th percentile),5936,2024-12-26,Spinneys POS,Bank Transfer,Success,224983.28
+large amount (above 99th percentile),6001,2024-12-29,Union Coop POS,Bank Transfer,Success,202139.83
+large amount (above 99th percentile),6036,2024-12-31,Carrefour POS Network,Bank Transfer,Success,205519.2
+large amount (above 99th percentile),6053,2025-01-01,Spinneys POS,Bank Transfer,Success,233089.29
+large amount (above 99th percentile),6142,2025-01-06,Spinneys POS,Bank Transfer,Success,212364.75
+large amount (above 99th percentile),6148,2025-01-06,Local Cafe Chain POS,Bank Transfer,Success,207383.99
+large amount (above 99th percentile),6212,2025-01-10,Local Cafe Chain POS,Bank Transfer,Success,211073.37
+large amount (above 99th percentile),6232,2025-01-11,NMC Health Gateway,Bank Transfer,Success,223041.43
+large amount (above 99th percentile),6340,2025-01-16,Emirates Booking Gateway,Bank Transfer,Success,202258.81
+large amount (above 99th percentile),6621,2025-02-01,Restaurant Aggregator Pay,Bank Transfer,Success,202966.27
+large amount (above 99th percentile),6640,2025-02-02,Spinneys POS,Bank Transfer,Refunded,206194.17
+large amount (above 99th percentile),6655,2025-02-03,Empower Cooling Pay,Bank Transfer,Success,227209.88
+large amount (above 99th percentile),6865,2025-02-17,Carrefour POS Network,Bank Transfer,Success,228788.51
+large amount (above 99th percentile),6952,2025-02-21,Careem Wallet Settlement,Bank Transfer,Success,213754.71
+large amount (above 99th percentile),6983,2025-02-23,Amazon.ae Gateway,Bank Transfer,Success,210193.88
+large amount (above 99th percentile),7131,2025-03-05,Namshi Checkout,Bank Transfer,Success,213275.95
+large amount (above 99th percentile),7344,2025-03-18,Carrefour POS Network,Bank Transfer,Success,225015.31
+large amount (above 99th percentile),7369,2025-03-19,NoonPay Checkout,Bank Transfer,Success,209973.34
+large amount (above 99th percentile),7407,2025-03-21,Spinneys POS,Bank Transfer,Success,224841.86
+large amount (above 99th percentile),7430,2025-03-23,Careem Wallet Settlement,Bank Transfer,Success,213766.64
+large amount (above 99th percentile),7455,2025-03-24,du Bill Pay,Bank Transfer,Success,213161.21
+large amount (above 99th percentile),7556,2025-03-31,Careem Wallet Settlement,Bank Transfer,Success,204323.26
+large amount (above 99th percentile),7854,2025-04-16,Lulu POS Network,Bank Transfer,Success,228838.11
+large amount (above 99th percentile),7861,2025-04-17,Jumeirah Hotels Pay,Bank Transfer,Success,224228.58
+large amount (above 99th percentile),7961,2025-04-23,Restaurant Aggregator Pay,Bank Transfer,Success,214389.64
+large amount (above 99th percentile),7977,2025-04-24,Namshi Checkout,Bank Transfer,Success,215696.25
+large amount (above 99th percentile),8427,2025-05-21,Union Coop POS,Bank Transfer,Success,223585.01
+large amount (above 99th percentile),8703,2025-06-07,NoonPay Checkout,Bank Transfer,Success,206312.36
+large amount (above 99th percentile),8798,2025-06-14,Namshi Checkout,Bank Transfer,Success,233306.53
+large amount (above 99th percentile),8997,2025-06-26,Amazon.ae Gateway,Bank Transfer,Success,223116.3
+large amount (above 99th percentile),9063,2025-06-30,Empower Cooling Pay,Bank Transfer,Success,233646.68
+large amount (above 99th percentile),9064,2025-06-30,Spinneys POS,Bank Transfer,Success,234218.05
+large amount (above 99th percentile),9094,2025-07-02,Spinneys POS,Bank Transfer,Success,228133.95
+large amount (above 99th percentile),9221,2025-07-10,Carrefour POS Network,Bank Transfer,Success,210417.72
+large amount (above 99th percentile),9446,2025-07-25,Lulu POS Network,Bank Transfer,Success,210809.82
+large amount (above 99th percentile),9711,2025-08-10,Mediclinic POS,Bank Transfer,Success,220411.27
+large amount (above 99th percentile),9762,2025-08-13,Namshi Checkout,Bank Transfer,Success,224675.78
+large amount (above 99th percentile),9811,2025-08-17,Namshi Checkout,Bank Transfer,Success,215818.84
+large amount (above 99th percentile),9876,2025-08-21,Restaurant Aggregator Pay,Bank Transfer,Success,225275.25
+large amount (above 99th percentile),9952,2025-08-27,Carrefour POS Network,Bank Transfer,Success,210790.52
+large amount (above 99th percentile),10097,2025-09-05,Spinneys POS,Bank Transfer,Success,225819.46
+large amount (above 99th percentile),10219,2025-09-14,du Bill Pay,Bank Transfer,Success,206221.48
+large amount (above 99th percentile),10496,2025-10-01,Jumeirah Hotels Pay,Bank Transfer,Success,219576.66
+large amount (above 99th percentile),10555,2025-10-05,NoonPay Checkout,Bank Transfer,Success,230604.79
+large amount (above 99th percentile),10570,2025-10-05,Instashop Pay,Bank Transfer,Success,214094.86
+large amount (above 99th percentile),10603,2025-10-07,Amazon.ae Gateway,Bank Transfer,Success,224252.28
+large amount (above 99th percentile),10610,2025-10-08,DEWA Bill Pay,Bank Transfer,Success,223469.95
+large amount (above 99th percentile),10716,2025-10-15,Namshi Checkout,Bank Transfer,Success,230760.19
+large amount (above 99th percentile),10722,2025-10-15,Deliveroo Merchant Pay,Bank Transfer,Success,220068.92
+large amount (above 99th percentile),10761,2025-10-18,Jumeirah Hotels Pay,Bank Transfer,Success,220436.38
+large amount (above 99th percentile),10895,2025-10-27,Emirates Booking Gateway,Bank Transfer,Success,203840.9
+large amount (above 99th percentile),11028,2025-11-03,Carrefour POS Network,Bank Transfer,Success,230753.76
+large amount (above 99th percentile),11192,2025-11-14,Instashop Pay,Bank Transfer,Success,225361.74
+large amount (above 99th percentile),11269,2025-11-19,Spinneys POS,Bank Transfer,Success,203174.25
+large amount (above 99th percentile),11424,2025-11-28,NMC Health Gateway,Bank Transfer,Refunded,202769.12
+large amount (above 99th percentile),11696,2025-12-13,RTA Transit Pay,Bank Transfer,Success,234900.39
+large amount (above 99th percentile),11863,2025-12-23,Carrefour POS Network,Bank Transfer,Success,229512.61
+large amount (above 99th percentile),11962,2025-12-29,Restaurant Aggregator Pay,Bank Transfer,Success,205012.19
+failed payment,9,2024-01-01,Namshi Checkout,Net Banking,Failed,15642.06
+failed payment,54,2024-01-03,Life Pharmacy POS,Digital Wallet,Failed,5870.78
+failed payment,94,2024-01-05,Amazon.ae Gateway,Net Banking,Failed,30792.96
+failed payment,249,2024-01-15,Aster Clinics Pay,Net Banking,Failed,10636.65
+failed payment,512,2024-01-29,Emirates Booking Gateway,Digital Wallet,Failed,2538.34
+failed payment,576,2024-02-02,Union Coop POS,Net Banking,Failed,37868.47
+failed payment,628,2024-02-06,Empower Cooling Pay,Net Banking,Failed,46618.52
+failed payment,802,2024-02-18,Life Pharmacy POS,Digital Wallet,Failed,6675.87
+failed payment,858,2024-02-22,Talabat Merchant Pay,Digital Wallet,Failed,6554.84
+failed payment,895,2024-02-24,Instashop Pay,Net Banking,Failed,19885.39
+failed payment,1067,2024-03-06,Spinneys POS,Digital Wallet,Failed,3070.93
+failed payment,1187,2024-03-14,Talabat Merchant Pay,Digital Wallet,Failed,5914.1
+failed payment,1295,2024-03-21,Spinneys POS,Net Banking,Failed,43893.39
+failed payment,1455,2024-03-30,RTA Transit Pay,Digital Wallet,Failed,5269.12
+failed payment,1572,2024-04-07,Restaurant Aggregator Pay,Digital Wallet,Failed,250.84
+failed payment,1666,2024-04-12,Emirates Booking Gateway,Net Banking,Failed,2847.09
+failed payment,1692,2024-04-14,Deliveroo Merchant Pay,Net Banking,Failed,44656.73
+failed payment,1970,2024-05-01,Spinneys POS,Net Banking,Failed,40266.32
+failed payment,1990,2024-05-02,NMC Health Gateway,Digital Wallet,Failed,1733.25
+failed payment,2176,2024-05-12,Carrefour POS Network,Net Banking,Failed,38401.38
+failed payment,2279,2024-05-19,Union Coop POS,Net Banking,Failed,20593.78
+failed payment,2297,2024-05-21,DEWA Bill Pay,Net Banking,Failed,44653.74
+failed payment,2373,2024-05-26,RTA Transit Pay,Net Banking,Failed,45629.46
+failed payment,2656,2024-06-12,Instashop Pay,Net Banking,Failed,39892.58
+failed payment,2721,2024-06-15,du Bill Pay,Net Banking,Failed,45212.08
+failed payment,2826,2024-06-23,DEWA Bill Pay,Net Banking,Failed,25099.09
+failed payment,2865,2024-06-26,DEWA Bill Pay,Digital Wallet,Failed,1868.24
+failed payment,3081,2024-07-08,Local Cafe Chain POS,Digital Wallet,Failed,3514.21
+failed payment,3382,2024-07-26,Careem Wallet Settlement,Net Banking,Failed,21475.32
+failed payment,3748,2024-08-18,Namshi Checkout,Net Banking,Failed,29731.86
+failed payment,3849,2024-08-24,Aster Clinics Pay,Net Banking,Failed,33148.59
+failed payment,3965,2024-08-31,Empower Cooling Pay,Digital Wallet,Failed,4022.94
+failed payment,4059,2024-09-07,Jumeirah Hotels Pay,Digital Wallet,Failed,4184.46
+failed payment,4070,2024-09-07,Instashop Pay,Net Banking,Failed,27110.01
+failed payment,4229,2024-09-16,NMC Health Gateway,Digital Wallet,Failed,1469.85
+failed payment,4270,2024-09-18,Jumeirah Hotels Pay,Net Banking,Failed,1436.57
+failed payment,4358,2024-09-23,Restaurant Aggregator Pay,Net Banking,Failed,37230.55
+failed payment,4378,2024-09-24,Union Coop POS,Net Banking,Failed,6104.66
+failed payment,4436,2024-09-27,Etisalat Bill Pay,Net Banking,Failed,32727.76
+failed payment,4665,2024-10-11,du Bill Pay,Net Banking,Failed,26459.07
+failed payment,4752,2024-10-18,Local Cafe Chain POS,Net Banking,Failed,44286.28
+failed payment,4993,2024-10-31,Local Cafe Chain POS,Net Banking,Failed,2699.86
+failed payment,5308,2024-11-17,Carrefour POS Network,Digital Wallet,Failed,3188.19
+failed payment,5313,2024-11-17,NoonPay Checkout,Net Banking,Failed,34365.25
+failed payment,5371,2024-11-21,Life Pharmacy POS,Digital Wallet,Failed,1179.3
+failed payment,5521,2024-11-30,Life Pharmacy POS,Digital Wallet,Failed,474.2
+failed payment,5628,2024-12-06,Namshi Checkout,Net Banking,Failed,5161.91
+failed payment,6090,2025-01-03,Restaurant Aggregator Pay,Net Banking,Failed,19186.56
+failed payment,6115,2025-01-04,Amazon.ae Gateway,Net Banking,Failed,6606.02
+failed payment,6239,2025-01-12,Empower Cooling Pay,Net Banking,Failed,18906.84
+failed payment,6311,2025-01-15,Deliveroo Merchant Pay,Net Banking,Failed,21243.16
+failed payment,6316,2025-01-15,du Bill Pay,Digital Wallet,Failed,840.25
+failed payment,7073,2025-03-02,Local Cafe Chain POS,Net Banking,Failed,21549.56
+failed payment,7134,2025-03-05,Lulu POS Network,Digital Wallet,Failed,4064.7
+failed payment,7201,2025-03-09,Life Pharmacy POS,Digital Wallet,Failed,2320.46
+failed payment,7394,2025-03-21,Lulu POS Network,Net Banking,Failed,1111.02
+failed payment,7427,2025-03-23,NMC Health Gateway,Net Banking,Failed,8326.86
+failed payment,7468,2025-03-25,Instashop Pay,Net Banking,Failed,6571.01
+failed payment,7694,2025-04-07,Empower Cooling Pay,Digital Wallet,Failed,5390.61
+failed payment,7809,2025-04-14,Instashop Pay,Digital Wallet,Failed,4695.4
+failed payment,7859,2025-04-17,Instashop Pay,Digital Wallet,Failed,3215.97
+failed payment,7895,2025-04-18,DEWA Bill Pay,Digital Wallet,Failed,5920.38
+failed payment,8209,2025-05-08,Carrefour POS Network,Net Banking,Failed,24295.88
+failed payment,8351,2025-05-16,Instashop Pay,Net Banking,Failed,22955.22
+failed payment,8352,2025-05-16,Union Coop POS,Net Banking,Failed,2324.86
+failed payment,8441,2025-05-22,DEWA Bill Pay,Net Banking,Failed,23931.56
+failed payment,9015,2025-06-27,Lulu POS Network,Digital Wallet,Failed,7705.42
+failed payment,9163,2025-07-07,Aster Clinics Pay,Net Banking,Failed,19721.35
+failed payment,9206,2025-07-10,du Bill Pay,Digital Wallet,Failed,1143.99
+failed payment,9207,2025-07-10,Carrefour POS Network,Net Banking,Failed,16200.24
+failed payment,9378,2025-07-20,du Bill Pay,Net Banking,Failed,40168.69
+failed payment,9434,2025-07-24,Namshi Checkout,Net Banking,Failed,40718.23
+failed payment,9654,2025-08-07,Namshi Checkout,Digital Wallet,Failed,4070.19
+failed payment,9666,2025-08-07,Namshi Checkout,Digital Wallet,Failed,1909.05
+failed payment,9763,2025-08-13,Local Cafe Chain POS,Digital Wallet,Failed,1097.68
+failed payment,9774,2025-08-14,Restaurant Aggregator Pay,Net Banking,Failed,32054.67
+failed payment,10085,2025-09-05,Instashop Pay,Net Banking,Failed,32927.42
+failed payment,10140,2025-09-08,Mediclinic POS,Net Banking,Failed,32289.03
+failed payment,10199,2025-09-13,Local Cafe Chain POS,Net Banking,Failed,41354.42
+failed payment,10202,2025-09-13,du Bill Pay,Net Banking,Failed,46530.14
+failed payment,10543,2025-10-04,RTA Transit Pay,Net Banking,Failed,1548.18
+failed payment,10612,2025-10-08,Instashop Pay,Digital Wallet,Failed,4450.37
+failed payment,11228,2025-11-16,Union Coop POS,Net Banking,Failed,15832.46
+failed payment,11384,2025-11-26,Local Cafe Chain POS,Digital Wallet,Failed,2257.99
+failed payment,11570,2025-12-06,Union Coop POS,Digital Wallet,Failed,4128.74
+failed payment,11704,2025-12-13,Amazon.ae Gateway,Net Banking,Failed,15016.7
+failed payment,11785,2025-12-18,Instashop Pay,Digital Wallet,Failed,6285.8
+failed payment,11804,2025-12-19,NoonPay Checkout,Net Banking,Failed,3341.23
+failed payment,11928,2025-12-27,Careem Wallet Settlement,Net Banking,Failed,41982.3
+failed payment,11940,2025-12-27,Amazon.ae Gateway,Net Banking,Failed,44233.85

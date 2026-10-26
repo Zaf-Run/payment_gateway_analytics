@@ -1,0 +1,10 @@
+settlement_band,payment_method,payments
+1 under 1h,Digital Wallet,496
+1 under 1h,UPI,1676
+2 1 to 6h,Bank Transfer,206
+2 1 to 6h,Digital Wallet,1902
+2 1 to 6h,UPI,1953
+3 6 to 24h,Bank Transfer,730
+3 6 to 24h,Net Banking,1622
+3 6 to 24h,POS Card,1091
+4 24h and above,POS Card,2234
