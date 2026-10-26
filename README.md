@@ -141,9 +141,3 @@ validate.py             independent pandas check
 outputs/                result tables and star schema CSVs for Excel and Power BI
 ```
 
-## 10. Next stages
-
-1. (Done) Method adjusted merchant comparison, `sql/11_merchant_adjusted.sql` and `adjust.py`.
-2. Excel workbook with data dictionary, pivots, KPI sheet, validation and formula lessons.
-3. Power BI spec with DAX and validation figures.
-4. Findings table, report, case study, CV bullets, interview preparation.
