@@ -4,10 +4,7 @@ Merchant performance, payment success and failure, refunds, settlement time and 
 
 ## 1. Dataset
 
-File: `uae_payment_gateway_transactions.csv`, supplied by the project owner.
-Source, license and provenance: NOT VERIFIED. The owner must add the original source link and license here before publishing. Several features suggest the data is synthetic (see section 6), but that is an observation, not a confirmed fact.
-
-Verified by inspection: 12,000 rows, 11 columns, one flat table, 2024-01-01 to 2025-12-31 (731 days), no nulls, no duplicates.
+File: `uae_payment_gateway_transactions.csv`
 
 ### Data dictionary
 
